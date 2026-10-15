@@ -1,5 +1,5 @@
 const API_KEY = "ak_9gu8qsvph9qripo9bfheh77v";
-const EMAIL = "your-email@example.com"; // <-- CHANGE THIS
+const EMAIL = "23f1001443@ds.study.iitm.ac.in"; // <-- CHANGE THIS
 
 module.exports = (req, res) => {
   // CORS: lets the exam page (a different website) call your API
